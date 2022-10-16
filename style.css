@@ -1,0 +1,49 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   color: bisque;
+   background-color: rgb(89, 173, 89);
+}
+body{
+    background-image: url(https://media.istockphoto.com/photos/stone-black-texture-background-dark-cement-wall-picture-id1318101781?b=1&k=20&m=1318101781&s=170667a&w=0&h=_8PGJeszlowAz6m76Qqsr0bGXOogeeCDC-IRrMejfEk=);
+}
+#header{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: initial;
+}
+#allow{
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+#instruct{
+    color: rgb(139, 239, 139);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+}
+.images{
+   width: 300px;
+   border-radius: 20px;
+   border-color: blanchedalmond;
+   box-shadow: 0 6px 8px 0 rgb(255, 254, 254);
+}
+#btn{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#label1{
+    color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#label2{
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
