@@ -5,6 +5,7 @@ var recognition = new SpeechRecognition();
 function start()
 {
     recognition.start();
+    speak()
 } 
 
 
