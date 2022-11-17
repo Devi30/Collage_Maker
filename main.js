@@ -8,8 +8,6 @@ function start()
     speak()
 } 
 
-
-camera = document.getElementById("camera");
 Webcam.set({
     width:500,
     height:400,
@@ -21,6 +19,7 @@ Webcam.set({
 
 function speak(){
     var synth = window.speechSynthesis;
+    camera=document.getElementById("camera")
     Webcam.attach(camera);
     setTimeout(function(){
         img_id="selfie1";
